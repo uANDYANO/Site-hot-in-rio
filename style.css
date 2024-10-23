@@ -85,6 +85,10 @@ nav li a:hover {
     margin-bottom: 4px;
 }
 
+#sub-menu li a {
+    cursor: pointer;
+}
+
 .container-flex {
     display: flex;
 }
@@ -287,6 +291,7 @@ footer li img {
     #sobre-a-loja img {
         max-width: 100%;
         margin-bottom: 32px;
+        margin-right: 0;
     }
 
     .lista-pratos {
